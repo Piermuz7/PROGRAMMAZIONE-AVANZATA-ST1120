@@ -1,5 +1,3 @@
-﻿// Learn more about F# at http://fsharp.org
-
 type Persona =
     | Nome of string
     | Cognome of string
@@ -36,4 +34,4 @@ let main argv =
     let cerchio = Circle(7.7)
     matchShape rect
     matchShape cerchio
-    0 // return an integer exit code
+    0
