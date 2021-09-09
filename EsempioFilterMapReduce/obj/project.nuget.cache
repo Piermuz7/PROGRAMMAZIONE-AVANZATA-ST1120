@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2lhlQ6ZoYRtwZoEMCGzmE+iQFXxiIuA8CsiOd3W09ytvWXH+SGLIJxzRf6iMcTRO4buHaGGNVPNIar73cxbCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Piermuz\\Desktop\\EserciziF#\\EsempioFilterMapReduce\\EsempioFilterMapReduce\\EsempioFilterMapReduce.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Piermuz\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
